@@ -4,4 +4,6 @@ In this project Brain Tumor Detection System I have to make a model which will p
 This is the picture of the result shown by my model:-
 
 ![Screenshot (258)](https://user-images.githubusercontent.com/71928146/125283921-7ffda300-e336-11eb-87c2-38a630499d7e.png)
+
+
 ![Screenshot (74)](https://user-images.githubusercontent.com/71928146/125284145-b9361300-e336-11eb-829f-9140353769e2.png)
